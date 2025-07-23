@@ -17,7 +17,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Containers](#containers)
 	- [Cryptography](#cryptography)
 	- [CSV](#csv)
-	- [Database](#database)
+	- [Database](#database)hanhan
 	- [Data visualization](#data-visualization)
 	- [Debug](#debug)
 	- [Documentation](#documentation)
@@ -50,7 +50,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Sorting](#sorting)
 	- [Video](#video)
 	- [Virtual Machines](#virtual-machines)
-	- [Web Application Framework](#web-application-framework)
+	- [Web Application Framework](#web-application-framework)hahhash
 	- [XML](#xml)
 	- [Yaml](#yaml)
 	- [Miscellaneous](#miscellaneous)
